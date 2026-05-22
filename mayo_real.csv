@@ -1,0 +1,41 @@
+Fecha,Mes,Tipo,Categoria,Detalle,Monto
+02/03/2026,marzo,Ingreso,Pago,Tres leches,132.00
+03/03/2026,marzo,Ingreso,Pago,Tres leches,77.00
+04/03/2026,marzo,Ingreso,Pago,Tres leches,77.00
+02/04/2026,abril,Ingreso,Pago,Tres leches,77.00
+04/04/2026,abril,Egreso,Gastos,materia prima,11.94
+06/04/2026,abril,Ingreso,Pago,Tres leches,81.40
+09/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+10/04/2026,abril,Ingreso,Pago,Tres leches,352.00
+11/04/2026,abril,Egreso,Gastos,materia prima,26.11
+14/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+15/04/2026,abril,Egreso,Gastos,materia prima,15.00
+16/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+17/04/2026,abril,Egreso,Gastos,materia prima,19.46
+20/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+23/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+24/04/2026,abril,Egreso,Gastos,materia prima,46.22
+25/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+28/04/2026,abril,Ingreso,Pago,Tres leches,79.20
+30/04/2026,abril,Ingreso,Pago,Tres leches,125.40
+30/04/2026,abril,Egreso,Servicios,pago luz,42.00
+30/04/2026,abril,Egreso,Deudas,cuota extrafinan,52.73
+30/04/2026,abril,Egreso,Mano de Obra,Mariana sueldo,390.00
+30/04/2026,abril,Egreso,Mano de Obra,Nathalia adelanto,100.00
+30/04/2026,abril,Egreso,Gastos,materia prima,84.00
+07/05/2026,mayo,Ingreso,Pago,Tres leches,127.60
+08/05/2026,mayo,Ingreso,Pago,Tres leches,88.00
+11/05/2026,mayo,Egreso,Gastos,huevos,13.95
+12/05/2026,mayo,Ingreso,Pago,Tres leches,112.30
+14/05/2026,mayo,Ingreso,Pago,Tres leches,129.80
+16/05/2026,mayo,Ingreso,Pago,Tres leches,85.80
+19/05/2026,mayo,Ingreso,Pago,Tres leches,116.60
+19/05/2026,mayo,Egreso,Gastos,huevos,4.65
+19/05/2026,mayo,Egreso,Gastos,moldes rojos,36.61
+19/05/2026,mayo,Egreso,Gastos,leche evaporada,17.58
+19/05/2026,mayo,Egreso,Deudas,couta extrafinan,52.73
+19/05/2026,mayo,Egreso,Servicios,pago luz,42.00
+20/05/2026,mayo,Ingreso,Pago,Tres leches,88.00
+21/05/2026,mayo,Egreso,Gastos,huevos,9.50
+21/05/2026,mayo,Egreso,Gastos,leche evaporada,7.00
+22/05/2026,mayo,Ingreso,pago,tres leches,132.00
